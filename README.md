@@ -1,16 +1,25 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Documentation
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## Overview
+OctoAcme follows a structured, lightweight project management approach to keep work prioritized, visible, and high-quality. Projects start with a clear initiation step to define goals, success criteria, and stakeholders. Planning breaks work into prioritized backlog items (epics, stories, tasks) with effort estimates and acceptance criteria. Execution uses short iterations and PR-based development: branches for features, linked issues, code reviews, and automated CI gates. Releases are prepared through release branches or tags, validated in staging with smoke tests, and documented in a changelog.
 
-Hey torres10x!
+Communication balances synchronous meetings (standups, sprint planning, retrospectives) with asynchronous documentation (issues, PRs, design docs, and the files in this docs/ folder) to ensure traceability and reduce context loss. Roles and personas are defined so responsibilities (Product Owner, Engineering Lead, Developers, QA, DevOps, and stakeholder reviewers) are clear for each item. Quality assurance is enforced with automated CI (linting, unit/integration tests, security scans), mandatory reviews, environment-based testing, and a pre-release checklist. Continuous improvement is formalized through retrospectives and measurement of delivery metrics (lead time, cycle time, defect rate).
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+## Documentation Links
+- [Project Management Overview](https://github.com/torres10x/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-project-management-overview.md)
+- [Project Initiation](https://github.com/torres10x/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-project-initiation.md)
+- [Project Planning](https://github.com/torres10x/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-project-planning.md)
+- [Execution and Tracking](https://github.com/torres10x/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-execution-and-tracking.md)
+- [Risks and Communication](https://github.com/torres10x/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-risks-and-communication.md)
+- [Release and Deployment](https://github.com/torres10x/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](https://github.com/torres10x/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](https://github.com/torres10x/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-roles-and-personas.md)
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## Acceptance Criteria
+- [ ] Content aligns with existing process docs
+- [ ] Update improves clarity or closes a documented gap
+- [ ] Proposed content has been reviewed with stakeholders (if needed)
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/torres10x/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+## Notes
+- Add or update links above if documents are moved or renamed.
+- For any substantive edits, link the PR to the relevant issue(s) and include reviewers from impacted teams.
